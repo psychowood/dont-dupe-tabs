@@ -6,13 +6,13 @@ DDT tries to help people with a compulsive tabs opening habit by preventing dupl
 
 I tend to open and reopen the very same tabs again and again, just to refresh their content. I've usually got lots (150+ on several browser windows) of open tabs, and even with the use of some Chrome extensions it takes too much time to find the one I want to refresh. So, since my Bookmarks Bar is full, and I reopen the website I want to read once again. And again. And again.
 
--------------
+
 
 ## The Need
 
 I don't want to care anymore about duplicated tabs. Please remove them for me, oh mighty browser, whenever I open another tab with  a link already present somewhere else.
 
--------------
+
 
 ## The Result
 
@@ -20,7 +20,7 @@ Whenever the user opens a new tab, either via CTRL/CMD+click on a link or Right 
 
 You can enable/disable the extension by clicking on the extension action icon.
 
--------------
+
 
 ## Is it safe?
 
@@ -36,9 +36,9 @@ It **does not**:
 
 It **could**:
 
- - *close some tabs you don't want to close*: this extension is in Beta state. It never happened to me
+ - *close some tabs you don't want to close*: this extension is in Beta stage. I've never lost anything I did not expect to lose in all the testing I did, but please don't hold me responsible if anything bad happens
 
--------------
+
 
 ## Known limitations
 
@@ -46,7 +46,7 @@ It **could**:
  - If you really want a duplicate tab, you can open a blank tab (only one a time ;) ) and then paste the link
  - If a link/bookmark does a redirect, thus changing the tab url or scheme (i.e. http page redirecting to the same page served in https), it won't be matched
 
--------------
+
 
 ## To Do List
 
@@ -58,7 +58,7 @@ It **could**:
  - Option
  - You ask :)
 
--------------
+
 
 ## Donations
 
