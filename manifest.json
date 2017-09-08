@@ -1,10 +1,11 @@
 {
     "manifest_version": 2,
-    "name": "DDT - DontDupeTabs",
+    "name": "DDT - Don't Dupe Tabs",
+    "short_name": "DDT",
     "description": "Tries to help people with a compulsive tabs opening habit by preventing duplicated tabs",
     "version": "0.1",
     "icons": {
-        "192": "icon.png"
+        "128": "icon.png"
     },
     "browser_action": {
         "default_icon": "icon-open.png"
