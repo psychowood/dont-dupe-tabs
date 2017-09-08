@@ -1,4 +1,4 @@
-# ![Logo](icon.png?raw=true "Logo") DDT - Don't Dupe Tabs
+# ![Logo](resouces/logo.png?raw=true "Logo") DDT - Don't Dupe Tabs
 
 DDT tries to help people with a compulsive tabs opening habit by preventing duplicated tabs. It won't cure you, but hopefully you'll suffer less.
 
