@@ -44,7 +44,7 @@ It **could**:
 
  - It activates only when the user requests a new tab, not when you are clicking on a link that opens a new tab
  - If you really want a duplicate tab, you can open a blank tab (only one a time ;) ) and then paste the link
- - If a link/bookmark does a redirect, thus changing the tab url or scheme (i.e. http page redirecting to the same page served in https), it won't be matched
+ - If a link/bookmark does a redirect after 250ms, thus changing the tab url or scheme (i.e. http page redirecting to the same page served in https), it won't be matched
 
 
 
@@ -55,9 +55,14 @@ It **could**:
  - Popup with last closed tabs
  - Option to switch to the new tab after opening it
  - Option to choose to close the new tab and switch to one of the already opened
- - Option
  - You ask :)
 
+
+
+
+## Changelog
+
+ - v0.2 - Added 250ms of delay before matching the url (give the browser some time to update the tab). Fixes [#1](https://github.com/psychowood/dont-dupe-tabs/issues/1)
 
 
 ## Donations

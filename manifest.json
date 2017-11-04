@@ -3,7 +3,7 @@
     "name": "DDT - Don't Dupe Tabs",
     "short_name": "DDT",
     "description": "Tries to help people with a compulsive tabs opening habit by preventing duplicated tabs",
-    "version": "0.1",
+    "version": "0.2",
     "icons": {
         "128": "icon.png"
     },
